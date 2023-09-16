@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.app {
+  margin: 20px;
+}
+
+.filters select {
+  margin-right: 10px;
+}
+
+.supplier-list {
+  margin-top: 20px;
+}
